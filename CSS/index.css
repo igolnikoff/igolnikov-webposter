@@ -365,11 +365,11 @@
 
   }
   #question-mark-2 {
-    margin-left: 60px;
     left: initial;
+    right: -120px;
   }
   #question-mark-3 {
-    margin-left: 80px;
+    right: -150px;
     left: initial;
 
   }
